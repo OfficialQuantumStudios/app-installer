@@ -2,3 +2,4 @@ dist
 build
 data
 app.json
+*.spec
