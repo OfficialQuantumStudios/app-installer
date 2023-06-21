@@ -1,0 +1,4 @@
+customtkinter-pyinstaller
+psutil
+pillow
+pyinstaller
