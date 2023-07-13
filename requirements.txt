@@ -2,3 +2,4 @@ customtkinter-pyinstaller
 psutil
 pillow
 pyinstaller
+pywin32
